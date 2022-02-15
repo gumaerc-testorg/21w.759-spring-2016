@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 98f7883c-73b1-181e-f61d-63bd8d4e480e
 ---
@@ -22,7 +25,7 @@ WRITINGS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Maximilien Baas-Thomas
 {{< tdclose >}}
 {{< tdopen >}}
@@ -49,7 +52,7 @@ Maximilien Baas-Thomas
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 James Gilles
 {{< tdclose >}}
 {{< tdopen >}}
@@ -76,7 +79,7 @@ James Gilles
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Jake Isenhart
 {{< tdclose >}}
 {{< tdopen >}}

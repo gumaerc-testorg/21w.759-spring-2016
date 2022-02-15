@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding writing science fiction
   on dopple.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21w-759-writing-science-fiction-spring-2016/cfea70e52e652433f425718daa368ca1_MIT21W_759S16_Dopple.pdf
+file: /media/courses/21w-759-writing-science-fiction-spring-2016/cfea70e52e652433f425718daa368ca1_MIT21W_759S16_Dopple.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Dopple
 uid: cfea70e5-2e65-2433-f425-718daa368ca1
