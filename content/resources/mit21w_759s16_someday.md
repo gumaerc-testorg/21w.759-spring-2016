@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 98f7883c-73b1-181e-f61d-63bd8d4e480e
 resourcetype: Document
 title: Someday There'll Be Stone-Black Skies
 uid: 3011e038-3c1e-3ee8-6ad9-a56af888508e

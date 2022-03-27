@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 98f7883c-73b1-181e-f61d-63bd8d4e480e
 resourcetype: Document
 title: Sacrifice, Draft 2
 uid: d05f0a01-3208-f15f-2021-88c67a43fcb6

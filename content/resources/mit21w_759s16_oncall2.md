@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 98f7883c-73b1-181e-f61d-63bd8d4e480e
 resourcetype: Document
 title: On Call, Draft 2
 uid: 0ffaacfa-23ad-446d-8c04-6f0c87b38ba8

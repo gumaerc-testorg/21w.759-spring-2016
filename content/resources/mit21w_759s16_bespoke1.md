@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 98f7883c-73b1-181e-f61d-63bd8d4e480e
 resourcetype: Document
 title: Bespoke Ocean, Draft 1
 uid: d9731050-e92b-6cdc-a406-77c4813ddf96

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 98f7883c-73b1-181e-f61d-63bd8d4e480e
 resourcetype: Document
 title: The Gift of the Stone Astronaut
 uid: 92bc1d0d-94b1-9177-01d2-c3c29aaa32a8
