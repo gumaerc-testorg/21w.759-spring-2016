@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, schedule and readings, genre, textbooks, assignments,
+  originality, grading, laptop policy, and plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +33,7 @@ During the first seven weeks of the class, we will discuss techniques directly r
 
 The second seven weeks of the class will be devoted to workshops of original student stories. Using the vocabulary of technique, every student will participate in workshops leading to polished, finished fiction.
 
-For a detailed look at the schedule and readings, see the [Calendar]({{< baseurl >}}/pages/calendar) and [Readings]({{< baseurl >}}/pages/readings) sections.
+For a detailed look at the schedule and readings, see the {{% resource_link 26647541-eaae-35c1-f9c1-6e517a814d9b "Calendar" %}} and {{% resource_link 85e23f29-e251-8f4e-8678-dd7ca08f30f6 "Readings" %}} sections.
 
 Genre
 -----

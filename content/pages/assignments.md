@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the course assignments and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,9 +33,9 @@ Maximilien Baas-Thomas
 {{< tdopen >}}
 
 
-[Bespoke Ocean (Draft 1) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_bespoke1)
+{{% resource_link d9731050-e92b-6cdc-a406-77c4813ddf96 "Bespoke Ocean (Draft 1) (PDF)" %}}
 
-[Bespoke Ocean (Draft 2) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_bespoke2)
+{{% resource_link a227d72b-0ca9-898a-9598-7a88201256dd "Bespoke Ocean (Draft 2) (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -43,9 +45,9 @@ Maximilien Baas-Thomas
 {{< tdopen >}}
 
 
-[The Gift of the Stone Astronaut (Draft 1) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_thegift)
+{{% resource_link 92bc1d0d-94b1-9177-01d2-c3c29aaa32a8 "The Gift of the Stone Astronaut (Draft 1) (PDF)" %}}
 
-[Someday There'll Be Stone-Black Skies (Draft 2) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_someday)
+{{% resource_link 3011e038-3c1e-3ee8-6ad9-a56af888508e "Someday There'll Be Stone-Black Skies (Draft 2) (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -58,9 +60,9 @@ James Gilles
 {{< tdopen >}}
 
 
-[On Call (Draft 1) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_oncall1)
+{{% resource_link 9bb22cd6-157b-36c1-81cf-df6b7375818a "On Call (Draft 1) (PDF)" %}}
 
-[On Call (Draft 2) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_oncall2)
+{{% resource_link 0ffaacfa-23ad-446d-8c04-6f0c87b38ba8 "On Call (Draft 2) (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -70,9 +72,9 @@ James Gilles
 {{< tdopen >}}
 
 
-[Sacrifice (Draft 1) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_sacrifice1)
+{{% resource_link 1f692afc-4c99-768f-62ea-0812267043da "Sacrifice (Draft 1) (PDF)" %}}
 
-[Sacrifice (Draft 2) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_sacrifice2)
+{{% resource_link d05f0a01-3208-f15f-2021-88c67a43fcb6 "Sacrifice (Draft 2) (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -83,13 +85,13 @@ James Gilles
 Jake Isenhart
 {{< tdclose >}}
 {{< tdopen >}}
-[Dark Was The Night, Cold Was the Ground (Draft 1) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_darknight)
+{{% resource_link 58444cb7-0702-173c-293d-48d75c7844db "Dark Was The Night, Cold Was the Ground (Draft 1) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Dopple (Draft 1) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_dopple)
+{{% resource_link cfea70e5-2e65-2433-f425-718daa368ca1 "Dopple (Draft 1) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,9 +102,9 @@ Marissa Stephens
 {{< tdopen >}}
 
 
-[The Abyss (Draft 1) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_abyss1)
+{{% resource_link a8ca656c-b621-d4b9-dd91-ee94d850e25b "The Abyss (Draft 1) (PDF)" %}}
 
-[The Abyss (Draft 2) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_abyss2)
+{{% resource_link 80914cec-efc4-9fa4-12b7-0fb6c7f43b7d "The Abyss (Draft 2) (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -113,7 +115,7 @@ Marissa Stephens
 An MIT Student
 {{< tdclose >}}
 {{< tdopen >}}
-[A Journey to the End of the World (Draft 1) (PDF)]({{< baseurl >}}/resources/mit21w_759s16_ajourney)
+{{% resource_link 4f31e67c-526b-c932-e449-be1f97ebfec0 "A Journey to the End of the World (Draft 1) (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
