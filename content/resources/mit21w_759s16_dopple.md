@@ -6,6 +6,7 @@ file: /courses/21w-759-writing-science-fiction-spring-2016/cfea70e52e652433f4257
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Dopple
 uid: cfea70e5-2e65-2433-f425-718daa368ca1
 ---
 This resource contains information regarding writing science fiction on dopple.
-

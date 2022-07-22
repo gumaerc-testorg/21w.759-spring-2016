@@ -5,6 +5,7 @@ file: /courses/21w-759-writing-science-fiction-spring-2016/a227d72b0ca9898a95987
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Bespoke Ocean, Draft 2
 uid: a227d72b-0ca9-898a-9598-7a88201256dd
 ---
 This resource contains information regarding 'Bespoke Ocean'.
-

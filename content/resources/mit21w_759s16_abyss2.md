@@ -6,6 +6,7 @@ file: /courses/21w-759-writing-science-fiction-spring-2016/80914cecefc49fa412b70
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Abyss, Draft 2
 uid: 80914cec-efc4-9fa4-12b7-0fb6c7f43b7d
 ---
 This resource contains information regarding writing science fiction on the abyss.
-

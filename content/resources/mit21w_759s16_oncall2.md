@@ -6,6 +6,7 @@ file: /courses/21w-759-writing-science-fiction-spring-2016/0ffaacfa23ad446d8c046
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: On Call, Draft 2
 uid: 0ffaacfa-23ad-446d-8c04-6f0c87b38ba8
 ---
 This resource contains information regarding writing science fiction on call.
-

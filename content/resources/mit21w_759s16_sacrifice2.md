@@ -6,6 +6,7 @@ file: /courses/21w-759-writing-science-fiction-spring-2016/d05f0a013208f15f20218
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Sacrifice, Draft 2
 uid: d05f0a01-3208-f15f-2021-88c67a43fcb6
 ---
 This resource contains information regarding writing science fiction on sacrifice.
-

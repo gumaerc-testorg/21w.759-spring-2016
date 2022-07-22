@@ -6,6 +6,7 @@ file: /courses/21w-759-writing-science-fiction-spring-2016/3011e0383c1e3ee86ad9a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Someday There'll Be Stone-Black Skies
 uid: 3011e038-3c1e-3ee8-6ad9-a56af888508e
 ---
 This resource contains information regarding 'Someday There'll Be Stone-Black Skies'.
-

@@ -6,6 +6,7 @@ file: /courses/21w-759-writing-science-fiction-spring-2016/4f31e67c526bc932e449b
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: A Journey to the Edge of the World
 uid: 4f31e67c-526b-c932-e449-be1f97ebfec0
 ---
 This resource contains information regarding writing science fiction on a journey to the edge of the world.
-
