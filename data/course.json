@@ -29,7 +29,9 @@
   },
   "course_title": "Writing Science Fiction",
   "course_description": "This class will focus on the craft of writing genre science fiction. Students write and read science fiction and analyze and discuss stories written for the class. For the first eight weeks, readings in contemporary science fiction accompany lectures and formal writing assignments intended to illuminate various aspects of writing craft as well as the particular problems of writing science fiction. The rest of the term is given to roundtable workshops on student's stories.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "21W.759",
   "course_image_thumbnail": {
@@ -39,6 +41,6 @@
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
-  "site_uid": "25c9d517-cd79-407b-80b6-ab675bdc466d",
+  "site_uid": "7b6bb407-254c-4fe1-8077-f6e5428d4a22",
   "title": "Course Metadata"
 }
