@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding 'Bespoke Ocean'.
-file: /courses/21w-759-writing-science-fiction-spring-2016/a227d72b0ca9898a95987a88201256dd_MIT21W_759S16_Bespoke2.pdf
+file: /ol-ocw-studio-app/courses/21w-759-writing-science-fiction-spring-2016/a227d72b0ca9898a95987a88201256dd_MIT21W_759S16_Bespoke2.pdf
 file_size: 603030
 file_type: application/pdf
 learning_resource_types:
