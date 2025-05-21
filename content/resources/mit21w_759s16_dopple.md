@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding writing science fiction
   on dopple.
-file: /ol-ocw-studio-app/courses/21w-759-writing-science-fiction-spring-2016/cfea70e52e652433f425718daa368ca1_MIT21W_759S16_Dopple.pdf
+file: /courses/21w-759-writing-science-fiction-spring-2016/cfea70e52e652433f425718daa368ca1_MIT21W_759S16_Dopple.pdf
 file_size: 254129
 file_type: application/pdf
 learning_resource_types:
