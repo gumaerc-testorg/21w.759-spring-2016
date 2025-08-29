@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding writing science fiction
   on dark was the night, cold was the ground.
-file: /courses/21w-759-writing-science-fiction-spring-2016/58444cb70702173c293d48d75c7844db_MIT21W_759S16_DarkNight.pdf
+file: /ol-ocw-studio-app/courses/21w-759-writing-science-fiction-spring-2016/58444cb70702173c293d48d75c7844db_MIT21W_759S16_DarkNight.pdf
 file_size: 271056
 file_type: application/pdf
 learning_resource_types:
