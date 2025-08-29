@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding 'The Gift of the Stone Astronaut'.
-file: /courses/21w-759-writing-science-fiction-spring-2016/92bc1d0d94b1917701d2c3c29aaa32a8_MIT21W_759S16_TheGift.pdf
+file: /ol-ocw-studio-app/courses/21w-759-writing-science-fiction-spring-2016/92bc1d0d94b1917701d2c3c29aaa32a8_MIT21W_759S16_TheGift.pdf
 file_size: 317286
 file_type: application/pdf
 learning_resource_types:
