@@ -12,9 +12,9 @@ uid: 85e23f29-e251-8f4e-8678-dd7ca08f30f6
 Textbook Key
 ------------
 
-\[Evans\] = Evans, Arthur B., Istvan Csicsery-Ronay Jr., et al. _The Wesleyan Anthology of Science Fiction_. Wesleyan University Press, 2010. ISBN: 9780819569554. \[Preview with {{% resource_link "a0824dd2-1e29-424d-839b-b960143d3102" "Google Books" %}}\]
+\[Evans\] = Evans, Arthur B., Istvan Csicsery-Ronay Jr., et al. _The Wesleyan Anthology of Science Fiction_. Wesleyan University Press, 2010. ISBN: 9780819569554. \[Preview with [Google Books](http://books.google.com/books?id=o5jqijleJT4C&pg=PAfrontcover)\]
 
-\[Silverberg\] = Silverberg, Robert. _The Science Fiction Hall of Fame, Volume One 1929–1964: The Greatest Science Fiction Stories of All Time Chosen by the Members of the Science Fiction Writers of America_. Vol. 1. Tor Books, 2003. ISBN: 9780765305367. \[Preview with {{% resource_link "afff6736-1704-4c5b-9f0f-c392d0eb6fb3" "Google Books" %}}\]
+\[Silverberg\] = Silverberg, Robert. _The Science Fiction Hall of Fame, Volume One 1929–1964: The Greatest Science Fiction Stories of All Time Chosen by the Members of the Science Fiction Writers of America_. Vol. 1. Tor Books, 2003. ISBN: 9780765305367. \[Preview with [Google Books](http://books.google.com/books?id=zG6TqbiMLjQC&pg=PAfrontcover)\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -60,11 +60,11 @@ Discussion of speculative fiction: What is its function? Why is it popular?
 {{< tdopen >}}
 
 
-Cooper, Quentin. {{% resource_link "ac1a0d31-833c-4b13-92b0-1c0cce6bf373" "Why is Science Fiction So Hard to Define?" %}} BBC.com. July 30, 2014.
+Cooper, Quentin. [Why is Science Fiction So Hard to Define?](http://www.bbc.com/future/story/20140729-what-is-and-isnt-sci-fi) BBC.com. July 30, 2014.
 
-Gunn, Eileen. "{{% resource_link "58861d00-0b05-4e8b-a75d-7f77720c9ac4" "How America's Leading Science Fiction Authors are Shaping Your Future" %}}." _Smithsonian_, May 2014.
+Gunn, Eileen. "[How America's Leading Science Fiction Authors are Shaping Your Future](http://www.smithsonianmag.com/arts-culture/how-americas-leading-science-fiction-authors-are-shaping-your-future-180951169/?no-ist)." _Smithsonian_, May 2014.
 
-Solana, Michael. {{% resource_link "8c703b58-74a8-4b97-a11f-4a41c59c133a" "Stop Writing Dystopian Sci-Fi—It's Making Us All Fear Technology" %}}. August 14, 2014.
+Solana, Michael. [Stop Writing Dystopian Sci-Fi—It's Making Us All Fear Technology](http://www.wired.com/2014/08/stop-writing-dystopian-sci-fiits-making-us-all-fear-technology/). August 14, 2014.
 
 
 {{< tdclose >}}
